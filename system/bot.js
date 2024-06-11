@@ -189,7 +189,7 @@ return client.sendMessage(m.chat, ngel, { quoted: fkontak});
 
           break;
         case "ping":{
-          m.reply("pong");
+          m.reply("udah bukan pong");
           }
           
           
